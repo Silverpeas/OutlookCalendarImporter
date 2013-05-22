@@ -10,13 +10,12 @@
     <connection>scm:git:git@github.com:Silverpeas/OutlookCalendarImporter.git</connection>
     <developerConnection>scm:git:git@github.com:Silverpeas/OutlookCalendarImporter.git</developerConnection>
     <url>https://github.com/Silverpeas/OutlookCalendarImporter</url>
-    <tag>HEAD</tag>
   </scm>
 
   <groupId>com.silverpeas.services</groupId>
   <artifactId>outlook</artifactId>
   <packaging>jar</packaging>
-  <version>5.13-SNAPSHOT</version>
+  <version>5.12-SNAPSHOT</version>
   <name>Silverpeas Outlook Calendar Importer - ${project.version}</name>
   <build>
     <finalName>outlook</finalName>
