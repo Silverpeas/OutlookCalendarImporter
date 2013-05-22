@@ -7,9 +7,9 @@
     <version>25-SNAPSHOT</version>
   </parent>
   <scm>
-    <connection>scm:git:git@github.com:Silverpeas/outlook.git</connection>
-    <developerConnection>scm:git:git@github.com:Silverpeas/outlook.git</developerConnection>
-    <url>https://github.com/Silverpeas/outlook</url>
+    <connection>scm:git:git@github.com:Silverpeas/OutlookCalendarImporter.git</connection>
+    <developerConnection>scm:git:git@github.com:Silverpeas/OutlookCalendarImporter.git</developerConnection>
+    <url>https://github.com/Silverpeas/OutlookCalendarImporter</url>
   </scm>
 
   <groupId>com.silverpeas.services</groupId>
